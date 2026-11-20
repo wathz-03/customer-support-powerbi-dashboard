@@ -50,9 +50,9 @@ Deep-dive operational view analyzing open vs. pending ticket queues, net resolut
 
 ## How to View This Project
 
-1. **Quick Preview (No Software Required):** Open [`Customer Support Overview.pdf`](report/Customer%20Support%20Overview.pdf) directly in your browser to view both report pages.
+1. **Quick Preview (No Software Required):** Open [`Customer Support Overview.pdf`](report/Customer%20Support%20Overview.pdf) directly in your browser to view both report pages[cite: 17].
 2. **Dataset:** Raw operational dataset available at [`report/customer_support_tickets.csv`](report/customer_support_tickets.csv)[cite: 17].
-3. **Interactive Exploration:** Download the `.pbix` report file and open it in **Microsoft Power BI Desktop** to interact with cross-filtering, slicers, and the underlying Power Query / DAX model.
+3. **Interactive Exploration:** Download [`Customer Support Overview.pbix`](report/Customer%20Support%20Overview.pbix) and open it in **Microsoft Power BI Desktop** to interact with cross-filtering, slicers, and the underlying Power Query / DAX model.
 
 ---
 
